@@ -1,0 +1,12 @@
+*.log
+*.log.*
+*.bak
+logs
+
+.idea/
+.pytest_cache
+.DS_Store
+
+build.sh
+dev
+__pycache__
